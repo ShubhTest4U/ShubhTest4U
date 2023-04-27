@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shubhamkori63@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/1rqXewolMKcsBDWe84dvAYu2EGuEqDyBv/view?usp=sharing)]([https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/1rqXewolMKcsBDWe84dvAYu2EGuEqDyBv/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/1rqXewolMKcsBDWe84dvAYu2EGuEqDyBv/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
