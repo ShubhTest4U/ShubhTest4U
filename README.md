@@ -5,22 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhtest4u" alt="shubhtest4u" /></a> </p>
 
-- 🔭 I’ve 3+ years of working experience as **Quality Analyst**
+- 🔭 I’ve 4 years of working experience as **Quality Analyst**
 
 - 🌱 I’m currently learning **Java with selenium automation**
 
 - 👯 I’m looking to collaborate on **Java with selenium project**
 
-- 🤝 I’m looking for help with **Java/Python with selenium project**
+- 🤝 I’m looking for help with **Java with selenium project**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shubham-kori/](https://www.linkedin.com/in/shubham-kori/)
+- 📝 I sometime write articles on [https://www.linkedin.com/in/shubham-kori/](https://www.linkedin.com/in/shubham-kori/)
 
 - 💬 Ask me about **Functional testing**
 
 - 📫 How to reach me **shubhamkori63@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/1rqXewolMKcsBDWe84dvAYu2EGuEqDyBv/view?usp=sharing))
-
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/13MmsVqcXHX66rReDTQOG6Yg8o5PtuRyJ/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kori/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kori/" height="30" width="40" /></a>
