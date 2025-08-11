@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhtest4u" alt="shubhtest4u" /></a> </p>
 
-- 🔭 I’ve 4 years of working experience as **Quality Analyst**
+- 🔭 I’ve 5+ years of working experience as **Quality Analyst**
 
-- 🌱 I’m currently learning **Java with selenium automation**
+- 🌱 I’m currently learning **Java with playwright automation** and **exploring AI Automation**
 
-- 👯 I’m looking to collaborate on **Java with selenium project**
+- 👯 I’m looking to collaborate on **Java with selenium/playwright project**
 
-- 🤝 I’m looking for help with **Java with selenium project**
-
-- 📝 I sometime write articles on [https://www.linkedin.com/in/shubham-kori/](https://www.linkedin.com/in/shubham-kori/)
-
-- 💬 Ask me about **Functional testing**
+- 📝 I sometime write articles on [LinkedIn](https://www.linkedin.com/in/shubham-kori/) | [Medium](https://shubhtest4u.medium.com/)
 
 - 📫 How to reach me **shubhamkori63@gmail.com**
 
