@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamkori63@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1IIM2Ymo8xXt4zyCC4S0PX-37bFGJO4lz/view?usp=sharing](https://drive.google.com/file/d/13MmsVqcXHX66rReDTQOG6Yg8o5PtuRyJ/view?usp=sharing)]
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/13MmsVqcXHX66rReDTQOG6Yg8o5PtuRyJ/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kori/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kori/" height="30" width="40" /></a>
